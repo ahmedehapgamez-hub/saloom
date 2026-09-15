@@ -17,10 +17,10 @@ div{
     border-radius: 10px;
     border-color: gold;
     margin: auto;
-    width: 100px;
-    padding: 60px;
+    width: 200px;
+    padding: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-    
+    image-rendering: auto;
     
 
 }
@@ -46,6 +46,9 @@ h2{
 }
 
 img {
+    border-style: groove;
+    border-radius: 12px;
+
     transition: 0.3s; 
   }
   img:hover {
